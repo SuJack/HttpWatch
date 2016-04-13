@@ -10,3 +10,5 @@ HttpWatch for windows(源码来自网络)
 4.支持imageview
 
 5.auto decoding text/html
+
+6.auto decoding application/json
