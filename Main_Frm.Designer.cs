@@ -87,7 +87,7 @@
             // splitContainer1.Panel1
             // 
             this.splitContainer1.Panel1.Controls.Add(this.dataGridView1);
-            this.splitContainer1.Panel1.Controls.Add(this.dataChart1);
+            //this.splitContainer1.Panel1.Controls.Add(this.dataChart1);
             // 
             // splitContainer1.Panel2
             // 

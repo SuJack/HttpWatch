@@ -689,7 +689,7 @@ namespace HttpWatch
         private void Frm_main_FormClosing(object sender, FormClosingEventArgs e)
         {
             bContinueCapturing = false;
-
+            Environment.Exit(0);
         }
 
 
